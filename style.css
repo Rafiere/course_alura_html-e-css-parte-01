@@ -1,0 +1,22 @@
+body {
+    background-color: #CCCCCC;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+p em strong {
+
+    /* The "0" represents no color, while the "F" represents
+    maximum color.*/
+
+    /* The first two letters represent the amount of red, the next two
+    the amount of green, and the last two the amount of blue. */
+
+    color: #FF0000;
+}
