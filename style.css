@@ -2,6 +2,10 @@ body {
     background-color: #CCCCCC;
 }
 
+#banner {
+   width: 100% 
+}
+
 h1 {
     text-align: center;
 }
@@ -19,4 +23,8 @@ p em strong {
     the amount of green, and the last two the amount of blue. */
 
     color: #FF0000;
+}
+
+#missao {
+    font-size: 20px;
 }
